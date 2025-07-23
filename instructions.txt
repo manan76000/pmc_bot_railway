@@ -1,0 +1,16 @@
+
+🔧 How to Run PMC Before-After Telegram Bot (From Android using Replit):
+
+1. Go to https://replit.com and log in
+2. Create a new Python project
+3. Upload the following files from this ZIP:
+   - main.py
+   - template.png
+   - requirements.txt
+4. Open the "Shell" tab and run:
+   pip install -r requirements.txt
+5. Click "Run" to start your bot
+6. On Telegram, open your bot and type: /start
+7. Send your Before photo → then After → bot replies with final image.
+
+⚠️ IMPORTANT: After testing, regenerate your token from @BotFather for safety.
